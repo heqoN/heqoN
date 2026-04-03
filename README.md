@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heqon&label=Profile%20views&color=0e75b6&style=flat" alt="heqon" /> </p>
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **C++**
 
 - 📫 How to reach me **abdullahaydin4153@gmail.com**
 
